@@ -17,8 +17,13 @@ An exploration of different terms that are used and encountered when talking abo
       price of that something)
     
     There are different ways in which data can be organised.Relational, Graph, Geo-spatial are some of the 
-    present ways of oranising data.   
-    
+    present ways of organising data.   
+## Structured and Unstructured Data
+
+Data when organised into a pre-defined structure can be called structured data. This is also known as 'schema-on-write' - the structure is available when the data is created/persisted/saved. The organisation model will differ depending on need - Relational, Graph etc. 
+
+It could happen that no structure is imposed at the time data is created. Such data is 'unstructured' data. Unstructured data usually is 'schema-on-read' - structure is imposed at time of 'reading' data from persistence.
+
 ## Metadata Management
 ## Master Data Management
 ## Ontology
